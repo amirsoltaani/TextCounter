@@ -18,7 +18,7 @@ import java.util.Scanner;
  * This application provide solution to 1st, 2nd, 3rd, 5th challenges of the question.
  * User can choose between the two provided txt files to test the application.
  * <p>
- * After successful run the application create a txt four txt files in the "results" folder located in the root directory
+ * After successful run the application creates four text files in the "Results" folder located in the root directory
  */
 public class AppDriver {
 	public static void main(String[] args) {
